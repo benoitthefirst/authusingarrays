@@ -1,0 +1,25 @@
+.signupform {
+    margin: auto;
+    width: 400px;
+}
+
+.formtitle{
+    text-align: center;
+}
+
+#InputPassword2, #InputSurname, #InputAge {
+    margin-top: 10px;
+}
+
+#emailHelp, #passwordHelp {
+    color:white !important;
+    font-weight: 600 !important;
+}
+
+.btn {
+    width:100%;
+}
+
+h1 {
+    font-size: 60px;
+}
